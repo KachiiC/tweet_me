@@ -1,0 +1,29 @@
+.input-tweet {
+    padding: 15px 0px;
+}
+
+.profile-icon {
+    margin: 10px 5px;
+    padding: 0px;
+}
+
+.tweet-icon {
+    margin: 10px 8px;
+}
+
+.tweet-button {
+    margin: 0px 5px;
+    text-align: right;
+}
+
+.tweet-form-container {
+    margin: 30px 0px;
+}
+
+.tweet-buttons-container {
+    margin: 15px 0px;
+}
+
+.input-tweet {
+    width: 500px;
+}

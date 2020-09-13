@@ -1,0 +1,24 @@
+.site-container {
+  margin: 0px 70px;
+}
+
+.section-border {
+  border: 1px solid rgb(181, 181, 181);
+}
+
+.page-nav-border {
+  border-bottom: 1px solid rgb(218, 218, 218);
+  position: fixed;
+  background-color: white;
+  width: 44%;
+  overflow: hidden;
+  z-index:99;
+  padding: 18px 10px;
+}
+
+.page-nav,
+.page-nav a,
+.page-nav a:hover{
+  font-weight: 750;
+  color: #000;
+}

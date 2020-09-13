@@ -1,0 +1,28 @@
+.tweet-feed-display-name {
+    font-size: 16px;
+    font-weight: 900;
+    margin: 1px 5px;
+}
+
+.tweet-feed-user-tag {
+    font-size: 14px;
+    margin: 0px 5px;
+}
+
+.tweet-date {
+    font-size: 14px;
+    margin: 0px 5px;
+}
+
+.tweet-feed-container {
+    min-height: 120px;
+}
+
+.tweet-feed-text {
+    font-size: 15px;
+    margin: 10px 5px 20px;
+}
+
+.tweet-feed-icon {
+    margin: 5px 25px;
+}

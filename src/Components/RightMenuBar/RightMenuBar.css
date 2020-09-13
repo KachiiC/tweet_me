@@ -1,0 +1,31 @@
+.search-nav-border {
+    border-bottom: 1px solid rgb(218, 218, 218);
+    position: fixed;
+    background-color: white;
+    overflow: hidden;
+    z-index:99;
+    padding: 14px;
+}
+
+.main-right-menu {
+    margin: 85px 10px;
+    background-color: rgb(104, 104, 104);
+    width: 317px;
+}
+
+.trending-heading {
+    font-weight: 800;
+    margin: 5px 0px;
+}
+
+.trends-subject-title{
+    margin: 5px 0px;
+}
+
+.trends-span-text {
+    font-size: 13px;
+}
+
+.trend-block{
+    height: 110px;
+}

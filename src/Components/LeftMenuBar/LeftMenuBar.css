@@ -1,0 +1,20 @@
+.twitter-icon {
+    padding-left: 10px; 
+    padding-top: 12px;
+}
+
+.twitter-menu-left {
+    padding-left: 20px;
+}
+
+.lg-tweet-button {
+    height: 45px;
+    width: 220px;
+    margin: 10px 30px;
+}
+
+.twitter-menu-left-text {
+    font-weight: 700;
+    font-size: 20px;
+    padding: 5px 5px;
+}
